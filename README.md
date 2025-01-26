@@ -10,24 +10,24 @@
 - Member 2: NIVEDITHA K - COLLEGE OF ENGINEERING,THALASSERY
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://sangukichu.github.io/tinkerhub/
 
 ### Project Description
-[2-3 lines about what your project does]
-
+User friendly system to help plant enthusiasts care for thier plants effectively.The system will provide personalized recommendations and guidence to ensure plants recieve the right amount of water. 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+We solve the problems like:
+     Lack of knowledge about plants over watering or underwatering,
+     Forgetting to care,etc..
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Using a website
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JavaScript
+- Express.js
+- VS Code
 
 For Hardware:
 - [List main components]
@@ -83,16 +83,14 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1CXMgSa7PHoBJz_7iZed0N0EPQ131YyJW/view
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- SANGEETHA G: Web Developed
+- NIVEDITHA K: Web Developed
 
 ---
 Made with ❤️ at TinkerHub
