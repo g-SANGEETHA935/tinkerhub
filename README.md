@@ -10,7 +10,7 @@
 - Member 2: NIVEDITHA K - COLLEGE OF ENGINEERING,THALASSERY
 
 ### Hosted Project Link
-https://sangukichu.github.io/tinkerhub/
+https://g-sangeetha935.github.io/tinkerhub/
 
 ### Project Description
 User friendly system to help plant enthusiasts care for thier plants effectively.The system will provide personalized recommendations and guidence to ensure plants recieve the right amount of water. 
